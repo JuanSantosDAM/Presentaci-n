@@ -1,4 +1,4 @@
-¡Claro que sí, Juan! Aquí tienes un README.md bien estructurado, profesional y con ese toque moderno que refleja el código que has escrito.
+
 
 Proyecto: Identidad & Visión 🚀
 Bienvenido al repositorio de mi portafolio personal. Este proyecto es una tarjeta de presentación digital diseñada para mostrar quién soy, mi filosofía de trabajo y los proyectos en los que he estado sumergido durante mi formación.
